@@ -2,7 +2,7 @@
 
 PWDTWO is a native, offline-first password manager being developed for macOS, iPhone, iPad and Android, with browser and compatible-app autofill and optional cloud-folder synchronization.
 
-This public repository currently contains **specifications only**. Application source, build tools, test evidence, illustrated user guides and release downloads have not been published here. Some dated development reports link to those local project files; those links will remain unavailable until the corresponding files are published. A public specifications repository does not mean a production application or public update feed is available.
+This public repository currently contains **specifications**, a root project README, its light/dark wordmarks and the MIT license. Application source, build tools, test evidence, illustrated user guides and release downloads have not been published here. Some dated development reports link to those local project files; those links will remain unavailable until the corresponding files are published. A public specifications repository does not mean a production application or public update feed is available.
 
 ## Start here
 
